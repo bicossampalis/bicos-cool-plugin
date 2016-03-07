@@ -1,0 +1,1 @@
+"# bicos-cool-plugin" 
